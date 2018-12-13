@@ -1,0 +1,198 @@
+[
+    {
+        "title": "Mayfield, KY",
+        "address": "1201 Fulton Road",
+        "city": "Mayfield",
+        "state": "KY",
+        "zip": "42066",
+        "phone": "2702474456",
+        "dealerNumber": {
+            "ag": "034320",
+            "turf": "034321",
+            "cwp": "050680"
+        },
+        "locationNumber": "1"
+    },
+    {
+        "title": "Princeton, KY",
+        "address": "1117 Hopkinsville Road",
+        "city": "Princeton",
+        "state": "KY",
+        "zip": "42445",
+        "phone": "2703652053",
+        "dealerNumber": {
+            "ag": "034787",
+            "turf": "034788",
+            "cwp": "051672"
+        },
+        "locationNumber": "2"
+    },
+    {
+        "title": "Russellville, KY",
+        "address": "250 Shelton Lane",
+        "city": "Russellville",
+        "state": "KY",
+        "zip": "42276",
+        "phone": "2707267171",
+        "dealerNumber": {
+            "ag": "039630",
+            "turf": "039631",
+            "cwp": "051675"
+        },
+        "locationNumber": "3"
+    },
+    {
+        "title": "Morganfield, KY",
+        "address": "1540 State Route 130 South",
+        "city": "Morganfield",
+        "state": "KY",
+        "zip": "42437",
+        "phone": "2703893668",
+        "dealerNumber": {
+            "ag": "039604",
+            "turf": "039605",
+            "cwp": "051677"
+        },
+        "locationNumber": "4"
+    },
+    {
+        "title": "Clarksville, TN",
+        "address": "411 Alfred Thun Road",
+        "city": "Clarksville",
+        "state": "TN",
+        "zip": "37040",
+        "phone": "9316470029",
+        "dealerNumber": {
+            "ag": "039678",
+            "turf": "039674",
+            "cwp": "051671"
+        },
+        "locationNumber": "5"
+    },
+    {
+        "title": "Clinton, KY",
+        "address": "188 US Highway 51 South",
+        "city": "Clinton",
+        "state": "KY",
+        "zip": "42031",
+        "phone": "2706534311",
+        "dealerNumber": {
+            "ag": "037899",
+            "turf": "037813",
+            "cwp": "056773"
+        },
+        "locationNumber": "6"
+    },
+    {
+        "title": "Cypress, IL",
+        "address": "5485 State Route 37 South",
+        "city": "Cypress",
+        "state": "IL",
+        "zip": "62923",
+        "phone": "6186572342",
+        "dealerNumber": {
+            "ag": "035759",
+            "turf": "035065",
+            "cwp": ""
+        },
+        "locationNumber": "7"
+    },
+    {
+        "title": "Paducah, KY",
+        "address": "3690 James Sanders Boulevard",
+        "city": "Paducah",
+        "state": "KY",
+        "zip": "42001",
+        "phone": "2704081397",
+        "dealerNumber": {
+            "ag": "033014",
+            "turf": "035800",
+            "cwp": "058112"
+        },
+        "locationNumber": "8"
+    },
+    {
+        "title": "Hopkinsville, KY",
+        "address": "2804 Pembroke Road",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "zip": "42240",
+        "phone": "2708863994",
+        "dealerNumber": {
+            "ag": "039189",
+            "turf": "039185",
+            "cwp": "055335"
+        },
+        "locationNumber": "9"
+    },
+    {
+        "title": "Jasper, IN",
+        "address": "2951 North 600 West",
+        "city": "Jasper",
+        "state": "IN",
+        "zip": "47546",
+        "phone": "8126341717",
+        "dealerNumber": {
+            "ag": "039988",
+            "turf": "039985",
+            "cwp": "059725"
+        },
+        "locationNumber": "10"
+    },
+    {
+        "title": "Evansville, IN",
+        "address": "10300 Telephone Road",
+        "city": "Chandler",
+        "state": "IN",
+        "zip": "47610",
+        "phone": "8124245507",
+        "dealerNumber": {
+            "ag": "039979",
+            "turf": "039977",
+            "cwp": "059733"
+        },
+        "locationNumber": "11"
+    },
+    {
+        "title": "Poseyville, IN",
+        "address": "60 East Frontage Road",
+        "city": "Poseyville",
+        "state": "IN",
+        "zip": "47633",
+        "phone": "8128742233",
+        "dealerNumber": {
+            "ag": "039983",
+            "turf": "039981",
+            "cwp": "059742"
+        },
+        "locationNumber": "12"
+    },
+    {
+        "title": "Newberry, IN",
+        "address": "7362 South State Road 57",
+        "city": "Elnora",
+        "state": "IN",
+        "zip": "47529",
+        "phone": "8126592101",
+        "dealerNumber": {
+            "ag": "039975",
+            "turf": "039972",
+            "cwp": "059723"
+        },
+        "locationNumber": "14"
+    },
+    {
+        "title": "Murray, KY",
+        "address": "306 Andrus Drive",
+        "city": "Murray",
+        "state": "KY",
+        "zip": "42071",
+        "phone": "2702267770",
+        "dealerNumber": {
+            "ag": "",
+            "turf": "",
+            "cwp": ""
+        },
+        "locationNumber": "20"
+    }
+]

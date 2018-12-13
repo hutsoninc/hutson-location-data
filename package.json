@@ -1,0 +1,26 @@
+{
+  "name": "hutson-location-data",
+  "version": "1.0.0",
+  "description": "Data for Hutson Inc locations",
+  "main": "data.json",
+  "devDependencies": {
+    "is-phone": "^2.0.0",
+    "jest": "^23.6.0"
+  },
+  "files": [
+    "data.json"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/hutson-location-data"
+  },
+  "author": {
+    "name": "Austin Gordon",
+    "email": "agordon@hutsoninc.com",
+    "url": "https://github.com/AustinLeeGordon"
+  },
+  "license": "MIT"
+}
