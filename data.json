@@ -5,7 +5,13 @@
         "city": "Mayfield",
         "state": "KY",
         "zip": "42066",
+        "coordinates": [
+            "-88.661794",
+            "36.725789"
+        ],
         "phone": "2702474456",
+        "partsPhone": "2709947880",
+        "servicePhone": "2707050633",
         "dealerNumber": {
             "ag": "034320",
             "turf": "034321",
@@ -19,7 +25,13 @@
         "city": "Princeton",
         "state": "KY",
         "zip": "42445",
+        "coordinates": [
+            "-87.862519",
+            "37.100734"
+        ],
         "phone": "2703652053",
+        "partsPhone": "2706252553",
+        "servicePhone": "2706251151",
         "dealerNumber": {
             "ag": "034787",
             "turf": "034788",
@@ -33,7 +45,13 @@
         "city": "Russellville",
         "state": "KY",
         "zip": "42276",
+        "coordinates": [
+            "-86.902074",
+            "36.847089"
+        ],
         "phone": "2707267171",
+        "partsPhone": "270-994-7881",
+        "servicePhone": "270-847-5563",
         "dealerNumber": {
             "ag": "039630",
             "turf": "039631",
@@ -47,7 +65,13 @@
         "city": "Morganfield",
         "state": "KY",
         "zip": "42437",
+        "coordinates": [
+            "-87.936909",
+            "37.680257"
+        ],
         "phone": "2703893668",
+        "partsPhone": "2709947882",
+        "servicePhone": "2702852808",
         "dealerNumber": {
             "ag": "039604",
             "turf": "039605",
@@ -61,7 +85,13 @@
         "city": "Clarksville",
         "state": "TN",
         "zip": "37040",
+        "coordinates": [
+            "-87.278671",
+            "36.598768"
+        ],
         "phone": "9316470029",
+        "partsPhone": "9312208644",
+        "servicePhone": "9316248280",
         "dealerNumber": {
             "ag": "039678",
             "turf": "039674",
@@ -75,7 +105,13 @@
         "city": "Clinton",
         "state": "KY",
         "zip": "42031",
+        "coordinates": [
+            "-88.988524",
+            "36.652565"
+        ],
         "phone": "2706534311",
+        "partsPhone": "2702934900",
+        "servicePhone": "2702541662",
         "dealerNumber": {
             "ag": "037899",
             "turf": "037813",
@@ -89,7 +125,13 @@
         "city": "Paducah",
         "state": "KY",
         "zip": "42001",
+        "coordinates": [
+            "-88.693072",
+            "37.085171"
+        ],
         "phone": "2704081397",
+        "partsPhone": "",
+        "servicePhone": "",
         "dealerNumber": {
             "ag": "033014",
             "turf": "035800",
@@ -104,6 +146,12 @@
         "state": "KY",
         "zip": "42240",
         "phone": "2708863994",
+        "coordinates": [
+            "-87.440947",
+            "36.834605"
+        ],
+        "partsPhone": "2702062347",
+        "servicePhone": "2702062346",
         "dealerNumber": {
             "ag": "039189",
             "turf": "039185",
@@ -117,7 +165,13 @@
         "city": "Jasper",
         "state": "IN",
         "zip": "47546",
+        "coordinates": [
+            "-87.018001",
+            "38.421011"
+        ],
         "phone": "8126341717",
+        "partsPhone": "8126306407",
+        "servicePhone": "8126341717",
         "dealerNumber": {
             "ag": "039988",
             "turf": "039985",
@@ -131,7 +185,13 @@
         "city": "Chandler",
         "state": "IN",
         "zip": "47610",
+        "coordinates": [
+            "-87.438333",
+            "38.007171"
+        ],
         "phone": "8124245507",
+        "partsPhone": "8122176382",
+        "servicePhone": "8124245507",
         "dealerNumber": {
             "ag": "039979",
             "turf": "039977",
@@ -145,7 +205,13 @@
         "city": "Poseyville",
         "state": "IN",
         "zip": "47633",
+        "coordinates": [
+            "-87.781970",
+            "38.179777"
+        ],
         "phone": "8128742233",
+        "partsPhone": "8126220012",
+        "servicePhone": "8128742233",
         "dealerNumber": {
             "ag": "039983",
             "turf": "039981",
@@ -159,7 +225,13 @@
         "city": "Elnora",
         "state": "IN",
         "zip": "47529",
+        "coordinates": [
+            "-87.036893",
+            "38.910574"
+        ],
         "phone": "8126592101",
+        "partsPhone": "8122591932",
+        "servicePhone": "8126592101",
         "dealerNumber": {
             "ag": "039975",
             "turf": "039972",
@@ -173,7 +245,13 @@
         "city": "Murray",
         "state": "KY",
         "zip": "42071",
+        "coordinates": [
+            "-88.3000472",
+            "36.6202994"
+        ],
         "phone": "2702267770",
+        "partsPhone": "",
+        "servicePhone": "",
         "dealerNumber": {
             "ag": "",
             "turf": "",
