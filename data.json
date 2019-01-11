@@ -84,20 +84,6 @@
         "locationNumber": "6"
     },
     {
-        "title": "Cypress, IL",
-        "address": "5485 State Route 37 South",
-        "city": "Cypress",
-        "state": "IL",
-        "zip": "62923",
-        "phone": "6186572342",
-        "dealerNumber": {
-            "ag": "035759",
-            "turf": "035065",
-            "cwp": ""
-        },
-        "locationNumber": "7"
-    },
-    {
         "title": "Paducah, KY",
         "address": "3690 James Sanders Boulevard",
         "city": "Paducah",

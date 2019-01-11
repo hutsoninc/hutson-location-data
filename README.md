@@ -19,4 +19,4 @@ console.log(hutsonLocationData);
 
 ## License
 
-MIT © [Austin Gordon](https://www.austinleegordon.com)
+MIT © [Hutson Inc](https://www.hutsoninc.com)
