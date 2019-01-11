@@ -8,6 +8,12 @@ test('is array', () => {
 test('phone numbers are valid', () => {
     data.forEach(obj => {
         expect((isValidPhone(obj.phone) && obj.phone.length === 10)).toBeTruthy();
+        if (obj.partsPhone) {
+            expect((isValidPhone(obj.partsPhone) && obj.partsPhone.length === 10)).toBeTruthy();
+        }
+        if (obj.servicePhone) {
+            expect((isValidPhone(obj.servicePhone) && obj.servicePhone.length === 10)).toBeTruthy();
+        }
     });
 });
 
