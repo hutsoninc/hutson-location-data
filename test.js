@@ -33,7 +33,7 @@ test('dealer numbers are unique', () => {
     let types = {
         ag: [],
         turf: [],
-        cwp: []
+        cce: []
     };
     let keys = Object.keys(types);
     data.forEach(obj => {

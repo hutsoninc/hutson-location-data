@@ -15,7 +15,7 @@
         "dealerNumber": {
             "ag": "034320",
             "turf": "034321",
-            "ccw": "050680"
+            "cce": "050680"
         },
         "locationNumber": "1"
     },
@@ -35,7 +35,7 @@
         "dealerNumber": {
             "ag": "034787",
             "turf": "034788",
-            "ccw": "051672"
+            "cce": "051672"
         },
         "locationNumber": "2"
     },
@@ -55,7 +55,7 @@
         "dealerNumber": {
             "ag": "039630",
             "turf": "039631",
-            "ccw": "051675"
+            "cce": "051675"
         },
         "locationNumber": "3"
     },
@@ -75,7 +75,7 @@
         "dealerNumber": {
             "ag": "039604",
             "turf": "039605",
-            "ccw": "051677"
+            "cce": "051677"
         },
         "locationNumber": "4"
     },
@@ -95,7 +95,7 @@
         "dealerNumber": {
             "ag": "039678",
             "turf": "039674",
-            "ccw": "051671"
+            "cce": "051671"
         },
         "locationNumber": "5"
     },
@@ -115,7 +115,7 @@
         "dealerNumber": {
             "ag": "037899",
             "turf": "037813",
-            "ccw": "056773"
+            "cce": "056773"
         },
         "locationNumber": "6"
     },
@@ -135,7 +135,7 @@
         "dealerNumber": {
             "ag": "033014",
             "turf": "035800",
-            "ccw": "058112"
+            "cce": "058112"
         },
         "locationNumber": "8"
     },
@@ -155,7 +155,7 @@
         "dealerNumber": {
             "ag": "039189",
             "turf": "039185",
-            "ccw": "055335"
+            "cce": "055335"
         },
         "locationNumber": "9"
     },
@@ -175,7 +175,7 @@
         "dealerNumber": {
             "ag": "039988",
             "turf": "039985",
-            "ccw": "059725"
+            "cce": "059725"
         },
         "locationNumber": "10"
     },
@@ -195,7 +195,7 @@
         "dealerNumber": {
             "ag": "039979",
             "turf": "039977",
-            "ccw": "059733"
+            "cce": "059733"
         },
         "locationNumber": "11"
     },
@@ -215,7 +215,7 @@
         "dealerNumber": {
             "ag": "039983",
             "turf": "039981",
-            "ccw": "059742"
+            "cce": "059742"
         },
         "locationNumber": "12"
     },
@@ -235,7 +235,7 @@
         "dealerNumber": {
             "ag": "039975",
             "turf": "039972",
-            "ccw": "059723"
+            "cce": "059723"
         },
         "locationNumber": "14"
     },
@@ -255,7 +255,7 @@
         "dealerNumber": {
             "ag": "",
             "turf": "",
-            "ccw": ""
+            "cce": ""
         },
         "locationNumber": "20"
     }
