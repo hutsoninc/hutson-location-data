@@ -1,6 +1,6 @@
 {
   "name": "hutson-location-data",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Data for Hutson Inc locations",
   "main": "data.json",
   "devDependencies": {
