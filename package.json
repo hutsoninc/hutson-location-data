@@ -5,7 +5,7 @@
   "main": "data.json",
   "devDependencies": {
     "is-phone": "^2.0.0",
-    "jest": "^23.6.0"
+    "jest": "^26.0.0"
   },
   "files": [
     "data.json"
