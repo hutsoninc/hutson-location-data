@@ -131,7 +131,7 @@
         ],
         "phone": "2704081397",
         "partsPhone": "",
-        "servicePhone": "",
+        "servicePhone": "6183175184",
         "dealerNumber": {
             "ag": "033014",
             "turf": "035800",
@@ -145,11 +145,11 @@
         "city": "Hopkinsville",
         "state": "KY",
         "zip": "42240",
-        "phone": "2708863994",
         "coordinates": [
             "-87.440947",
             "36.834605"
         ],
+        "phone": "2708863994",
         "partsPhone": "2702062347",
         "servicePhone": "2702062346",
         "dealerNumber": {
